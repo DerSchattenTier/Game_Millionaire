@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Millionaire2</string>
+    <string name="exittext">Нажмите ещё раз чтобы выйти</string>
+    <string name="main_button_start">Начать</string>
+    <string name="backtext">Нажмите ещё раз для выхода в главное меню.</string>
+    <string name="button">Продолжить</string>
+    <string name="textview">Ответь на все вопросы и заработай миллион!</string>
+    <string name="next">Далее</string>
+    <string name="trueimg">Правильно!</string>
+    <string name="falseimg">Неправильно!</string>
+    <string name="failtext">Мы поражены вашей неудачей.</string>
+    <string name="wintext">Поздравления! Ваш выигрыш - один миллион!</string>
+    <string name="call">Я думаю, что правильный ответ: </string>
+</resources>
