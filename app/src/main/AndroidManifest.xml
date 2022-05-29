@@ -4,9 +4,9 @@
 
     <application
         android:allowBackup="true"
-        android:icon="@mipmap/ic_launcher"
+        android:icon="@drawable/iconmillionaire"
         android:label="@string/app_name"
-        android:roundIcon="@mipmap/ic_launcher_round"
+        android:roundIcon="@drawable/iconmillionaire"
         android:supportsRtl="true"
         android:theme="@style/Theme.AppCompat.NoActionBar">
         <activity
@@ -23,9 +23,6 @@
             android:name="com.google.android.actions"
             android:resource="@xml/dialog_false" />
 
-        <activity
-            android:name=".DialogTrueFalse"
-            android:exported="false" />
         <activity
             android:name=".Progress"
             android:exported="false" />
